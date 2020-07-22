@@ -1,8 +1,7 @@
 //***********************************************************
 //  Cube.java
 //
-//  Dustin Kaban T00663749
-//  COMP 1231 Module 2 Assignment 2
+//  Dustin Kaban
 //  July 20th, 2020
 //
 //  This interface is created to control the setup of tasks.
