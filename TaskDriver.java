@@ -1,8 +1,7 @@
 //***********************************************************
 //  Cube.java
 //
-//  Dustin Kaban T00663749
-//  COMP 1231 Module 2 Assignment 2
+//  Dustin Kaban
 //  July 20th, 2020
 //
 //  This class creates a series of tasks and tests their functionality,
