@@ -38,10 +38,9 @@ public class Task implements Priority, Comparable
     @Override
     public int compareTo(Object obj)
     {
-        Task taskToCompare = (Task) obj;
-
         if(this.priorityValue == null) return 0;
-
+        Task taskToCompare = (Task) obj;
+        
         if(taskToCompare.priorityValue == null) return 0;
 
         return priorityValue.compareTo(taskToCompare.priorityValue);
